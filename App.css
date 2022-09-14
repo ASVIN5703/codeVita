@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/01/37/97/57/240_F_137975789_m9ci8tAWdbozSaeqVGQ8BVx8cGg0eVVH.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:inherit;
+    box-sizing:border-box;
+    font-family: 'Times New Roman', Times, serif;  
+     
+    
+}
+.menu-bar{
+    background-image:url("https://www.design.svgbackgrounds.com/wp-content/uploads/2021/05/liquid-cheese-yellow-background.png");
+    text-align: center;
+  }
+.menu-bar ul{
+    display: inline-flex;
+    list-style-type: none;
+   
+}
+.menu-bar ul li{
+    width:200px;
+    margin:15px;
+    padding:5px;
+  }
+ 
+  .menu-bar ul li:hover{
+    background:rgb(217, 221, 0)
+    border-box;
+    
+  }
+  .menu-bar ul { 
+      list-style-type: none;
+  }
+  
+  div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #73AD21;
+}
+div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #73AD21;
+}
+ table.relative{
+  position: relative;
+  right: 100px;
+ 
+ }
+ table {
+  display:flex;
+  font-family: arial, sans-serif;
+  border-collapse:collapse;
+  position: right;
+  width: 65%;
+}
+td {
+  border: 5px solid #dddddd;
+  background-color: #cae7d9 ;
+  text-align:left;
+  padding:20px;
+}
+th{
+  border: 5px solid #dddddd;
+  background-color: #9092a0 ;s
+  text-align:left;
+  padding: 20px;
+}
+tr:nth-child(even) {
+  background-color: rgb(194, 255, 192);
+}
+#container {
+  display: flex;
+  align-items: center;
+}
+
+#container h1,h2 {
+  margin-left: 1em;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+button1{
+  background-color: #5e4caf; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
